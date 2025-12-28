@@ -1,0 +1,41 @@
+# Arduino
+*.hex
+*.eep
+*.elf
+*.o
+*.d
+*.su
+*.map
+*.bin
+
+# Build directories
+build/
+*.build/
+
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Results (keep folder structure but ignore large files)
+results/*.mp4
+results/*.avi
+*.mp4
+*.avi
+
+# Temporary files
+*.tmp
+*.bak
+*.log
