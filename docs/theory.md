@@ -12,7 +12,7 @@
 
 ## Introduction
 
-PID (Proportional-Integral-Derivative) control is the most widely used feedback control algorithm in industrial applications. Despite its age (first implemented in 1911), it remains dominant due to its simplicity, effectiveness, and intuitive tuning.
+PID (Proportional-Integral-Derivative) control is the most widely used feedback control algorithm in industrial applications. Despite its age, it remains dominant due to its simplicity, effectiveness, and intuitive tuning.
 
 This document covers the mathematical foundations and practical implementation of PID control for our temperature control system.
 
